@@ -19,7 +19,7 @@
  
  ```
  ### 编译显示：
- ![CREATE TABLE](https://github.com/BiubiuOoo/mysql-test-1/blob/master/tese_images/30.png?raw=true)
+ ![](https://github.com/BiubiuOoo/mysql-test-1/blob/master/tese_images/30.png?raw=true)
 ## 题目2：如何join两张表
 
 ## 题目3： xxxx
