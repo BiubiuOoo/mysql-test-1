@@ -21,6 +21,12 @@
  ### 编译显示：
  ![](https://github.com/BiubiuOoo/mysql-test-1/blob/master/tese_images/30.png?raw=true)
 ## 题目2：如何join两张表
++ MySQL语句如下：
+```sql
+  select *
+  from table_name1 t1 inner join table_name2 t2 
+  on 条件(t1.属性=t2.属性/t1.属性>t2.属性/t1.属性<t2.属性); 
+```
 
 ## 题目3： xxxx
 
