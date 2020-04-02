@@ -14,7 +14,7 @@ mysql> show databases;
 +--------------------+ 
 4 rows in set (0.17 sec)
 ```
-![](https://github.com/925537059/mysql-test-1/blob/master/%24VB~PN%60%40U05WZ%25A(T3LXDLK.png)
+![](https://github.com/925537059/mysql-test-1/blob/master/%24VB~PN%60%40U05WZ%25A(T3LXDLK.png＋?raw*true)
 
 ## 题目2：如何join两张表
 
